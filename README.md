@@ -25,5 +25,3 @@
 
 Stay hungry, Stay foolish - Steve Jobs
 
-## Contato:
-assadlucas60@gmail.com
