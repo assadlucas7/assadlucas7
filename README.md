@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Assad👋
 
-- 🔭 Hoje trabalho com ensino infantil
-- 🌱 Estudando Python/Dados
+- 🔭 Hoje trabalho como Product Owner
+- 🌱 Estudando sempre
 - 😄 Pronouns: ele/dele
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-lucas-assad-1904a8207/)
